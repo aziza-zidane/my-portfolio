@@ -79,6 +79,8 @@
       font-size: 37px;
       text-shadow: rgba(255, 255, 255, 0.5) 0px 3px 3px;
     }
+    .nav-collapse {
+    }
     a {
       font-weight: bold;
       color: #fff;
